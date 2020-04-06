@@ -1,3 +1,16 @@
+# Fork of DockbarX
+
+## Why
+DockbarX uses python2, which is ultimately being killed off and since it's not under active development or sign of life,  I thought I'd fork, and upgrade it. :)
+
+## Status
+
+- [ ] Upgrade DockbarX to python3
+- [ ] Upgrade applets to python3
+- [ ] Set as service
+- [ ] (to be added/changed)
+
+
 # DockbarX
 ### Version 0.93
 
